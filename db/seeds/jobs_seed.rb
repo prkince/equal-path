@@ -87,7 +87,7 @@ ARCHITECTE = Job.new(
   field: "Architecture",
 )
 
-ARCHITECTE.remote_job_photo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1567714945/okhkohahfshegoo1sf2p.jpg"
+ARCHITECTE.remote_job_photo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1569974499/tbr8d1pbm76wslsc8cbf.jpg"
 ARCHITECTE.save!
 
 ARCHITECTE_D_INTERIEUR = Job.new(

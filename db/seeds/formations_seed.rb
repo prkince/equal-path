@@ -136,7 +136,7 @@ Après une introduction au Design Thinking et au Lean Startup, vous apprendrez �
 à des techniques de tests utilisateurs et de prototypage rapide.
 Dans un second temps, vous déterminerez le périmètre de votre MVP et verrez comment mesurer sa performance grace au framework AARRR.",
 )
-THIGA.remote_logo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1567714903/yoxtvtusvihyhcqpan3g.png"
+THIGA.remote_logo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1569974460/ckr3ss6lfyipu2gdrpkk.png"
 THIGA.save!
 
 LION =Formation.new(
@@ -195,7 +195,7 @@ COURS_FLORENT = Formation.new(
   description: "Le Cours Florent forme les Artistes de Demain.",
 )
 
-COURS_FLORENT.remote_logo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1567714905/cho1qfdc6949ab4qqcpq.png"
+COURS_FLORENT.remote_logo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1569974463/spzbqn1cf7l5hs46hbxw.png"
 COURS_FLORENT.save!
 
 DE = Formation.new(

@@ -64,7 +64,7 @@ LANGAGE_C = Skill.new(
   category: "programmation"
 )
 
-LANGAGE_C.remote_logo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1567714933/rcqaqcybn3qmncu9j9ax.jpg"
+LANGAGE_C.remote_logo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1569974488/q6rds3saqi6xaaafj6bt.jpg"
 LANGAGE_C.save!
 
 JAVASCRIPT = Skill.new(
@@ -75,7 +75,7 @@ JAVASCRIPT = Skill.new(
   category: "programmation"
 )
 
-JAVASCRIPT.remote_logo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1567714934/pppiyw1zah0nshkity4u.png"
+JAVASCRIPT.remote_logo_url = "https://res.cloudinary.com/dovu27lye/image/upload/v1569974489/vsc0ke1g3t3szlcmmddb.png"
 JAVASCRIPT.save!
 
 JAVA = Skill.new(
